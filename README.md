@@ -7,7 +7,7 @@ Windows 32-bit [Download](https://github.com/harishvraghav/DigitalStampAlbum/blo
 
 Windows 64-bit [Download](https://github.com/harishvraghav/DigitalStampAlbum/blob/master/Installers/Digital_Stamp_Album_x64.zip)
 
-Extract the archive and open "Digital Stamp Album.exe"
+Right-click -> Save Link as and extract the archive and open "Digital Stamp Album.exe"
 
 Version 1
 ---------------------
